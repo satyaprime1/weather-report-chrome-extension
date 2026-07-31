@@ -1,6 +1,5 @@
 # Weather Report – Chrome Extension
 
-#### Video Demo: <https://youtu.be/I1Anp3ZbgTg>
 
 ## Description
 
